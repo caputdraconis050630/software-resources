@@ -78,7 +78,7 @@
 | 	https://velog.io/@yujo	                | 	[	YUJO42	](https://github.com/YUJO42)	                     | 		            |
 | 	https://urakasumi.tistory.com/	        | 	[		] (https://github.com/Soksurim)	                        | 		            |
 | 	https://gwpaeng.tistory.com/	          | 	[		] (https://gwpaeng.tistory.com/)	                       | 		            |
-| 	https://caputdraconis.tistory.com/	    | 	[		]	(https://caputdraconis.tistory.com/)	                 | 		            |
+| 	https://caputdraconis.tistory.com/	    | 	[caputdraconis]	(https://github.com/caputdraconis050630)	   | 		            |
 | 	https://codinggorani.tistory.com	      | 	[		]	(https://codinggorani.tistory.com)	                   | 		            |
 | 	https://ai-hong.tistory.com	           | 	[		]	(https://ai-hong.tistory.com)	                        | 		            |
 | 	https://nadarm.tistory.com	            | 	[		]	(https://github.com/nadarm)	                          | 		            |
